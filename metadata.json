@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS — AI Operations Platform",
+  "description": "Enterprise AI-powered operations management platform for business intelligence, project governance, team productivity, and predictive operational insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
